@@ -1,0 +1,47 @@
+.gratitude {
+  margin: 5rem 1rem 1rem;
+  &__header {
+    &-title {
+      text-align: center;
+    }
+    &-box {
+      border-radius: 10px;
+      border: 1px solid black;
+      background-color: beige;
+      padding: 30px 0;
+    }
+
+    &-wrapper {
+      display: flex;
+      justify-content: center;
+    }
+
+    &-button {
+      margin-left: 20px;
+    }
+  }
+
+  &__list {
+    &-box {
+      border: 1px solid black;
+      background-color: beige;
+      margin-top: 50px;
+      padding: 0 10px;
+    }
+  }
+
+  &__nextButton {
+    width: 150px;
+    height: 40px;
+    border: none;
+    background-color: beige;
+    float: right;
+    border-radius: 20px;
+    margin-top: 30px;
+  }
+}
+
+.input {
+  border-radius: 10px;
+  background-color: #ededed;
+}

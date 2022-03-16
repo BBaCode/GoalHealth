@@ -1,0 +1,28 @@
+.landing {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 5rem 1rem 0;
+  border: 1px solid black;
+  background-color: beige;
+
+  &__header {
+    font-style: italic;
+  }
+
+  &__quote {
+    text-align: center;
+  }
+
+  &__author {
+  }
+
+  &__button {
+    margin-bottom: 1rem;
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: #ededed;
+  }
+}
