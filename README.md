@@ -14,7 +14,8 @@
 
 - This project was a mini hackathon challenge undertaken by one of my peers and I during our bootcamp at Brainstation
 - We were given a little under 24 hours to build it from the ground up
-- THe purpose of this app is to combine both goals/tasks features with journal/reflection features to give a wholistic self-help app
+- The purpose of this app is to combine both goals/tasks features with journal/reflection features to give a wholistic self-help app
+- As a note, my peer (Bryan Kwok) has the original repo which is private, so this is is simply a clone of what we originally did
 
 ## Technologies Used
 
